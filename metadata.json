@@ -1,0 +1,5 @@
+{
+  "name": "AI Product Description Generator",
+  "description": "An AI-powered tool to generate compelling product descriptions in Arabic for e-commerce stores. Users can specify product details, keywords, target audience, and tone of voice to get multiple variations of SEO-friendly descriptions.",
+  "requestFramePermissions": []
+}
